@@ -1,0 +1,6 @@
+{
+  "name": "AyuTrack - Clinical Trial Management System",
+  "description": "Cloud-based Clinical Trial Management System (CTMS) for Ayurveda clinical research and AIIA/Ministry of Ayush with real-time monitoring, pharmacovigilance, and eCRF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
